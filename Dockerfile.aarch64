@@ -19,6 +19,7 @@ RUN \
     build-essential \
     dkms \
     git \
+    gettext-base \
     gnupg \
     ifupdown \
     iproute2 \
